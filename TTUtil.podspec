@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TTUtil'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '一个工具类.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-一个工具类
+一个工具类,集合一些常用方法
                        DESC
 
   s.homepage         = 'https://github.com/ThomasTan1987/TTUtil'
